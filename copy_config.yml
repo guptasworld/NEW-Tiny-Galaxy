@@ -1,25 +1,24 @@
 # Site settings
 title: Tiny Galaxy - Gateway to knowledge
-description: "  Tiny Galaxy at Amstelveen, is a special plce where children's unique thinking flourishes. We are made up of experienced facilitators who believe in the importance of developmentally appropriate practices, hands-on learning, arts exposure and social guidance for the youngest of people under age of 4 years.
-."
-baseurl: "/Home" # the subpath of your site, e.g. /blog
-url: "tinygalaxy.nl" # the name of your domain
+description: "A responsive Jekyll theme for dental clinics."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the name of your domain
 logo_url: svg/min/logo.svg
 
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: Tiny Galaxy
-    hero_description: Gateway to knowledge!!
-    
+    hero_title: DentistSmile
+    hero_description: A responsive Jekyll theme for dental clinics.
+
 # Contact form
 api_token: # Enter API token here
 
 # Contact info
 contact:
     phone: +31 645110505
-    email: tinygalaxyamstelveen@gmail.com
-    address: Stadsplein 99 1181ZM Amstelveen Netherlands
+    email: contact@yoursite.com
+    address: Amstelveen
 
 # Opening hours
 monday_friday: 9:00 – 18:00
@@ -33,15 +32,15 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Stadsplein 99, 1181ZMm Amstelveen, Netherlands
+    address: Von schroeders 273, Viña del mar, Chile
     address_details: svg/min/logo.svg
 
 # Social settings
-facebook: http://facebook.com/tinygalaxy2017
+facebook: http://facebook.com
 twitter: http://twitter.com
 instagram: http://instagram.com
 youtube: http://youtube.com
-skype: skype:obaez_design?userinfo      
+skype: skype:obaez_design?userinfo
 feed: yes
 
 # Footer
