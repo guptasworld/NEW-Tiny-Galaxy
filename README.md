@@ -3,4 +3,4 @@ This is a leanring project where we try to implement DentistSmile - Jekyll Theme
 
 Here is a [live Demo](http://obaez.com/dentistsmile/)
 
-While customizing, we shall try to leverage the existing theme however for to be by preschools.
+While customizing, we shall try to leverage the existing theme however for a preschool small business.
