@@ -17,14 +17,13 @@ api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: +31 645110505
+    phone: +31 (0) 645110505
     email: tinygalaxyamstelveen@gmail.com
-    address: Stadsplein 99 1181ZM Amstelveen Netherlands
+    address: C/o Muziel and Dandsschool, Stadsplein 99 1181ZM Amstelveen. Located at 2nd floor, room number 8
 
 # Opening hours
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
+Mon_Tue_Thus: 10:00 AM – 12:30 PM
+Wedn: 10:00 AM – 12:00 PM
 
 # Testimonials
 testimonials:
@@ -38,14 +37,12 @@ map:
 
 # Social settings
 facebook: http://facebook.com/tinygalaxy2017
-twitter: http://twitter.com
 instagram: http://instagram.com
 youtube: http://youtube.com
-skype: skype:obaez_design?userinfo      
 feed: yes
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: © 2019 Tiny Galaxy Amstelveen - All rights reserved
 
 # Build settings
 markdown: kramdown
