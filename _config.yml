@@ -1,7 +1,6 @@
 # Site settings
 title: Tiny Galaxy - Gateway to knowledge
-description: "  Tiny Galaxy at Amstelveen, is a special plce where children's unique thinking flourishes. We are made up of experienced facilitators who believe in the importance of developmentally appropriate practices, hands-on learning, arts exposure and social guidance for the youngest of people under age of 4 years.
-."
+description: "Tiny Galaxy at Amstelveen is a special plce where children's unique thinking flourishes"
 baseurl: "/Home" # the subpath of your site, e.g. /blog
 url: "tinygalaxy.nl" # the name of your domain
 logo_url: svg/min/logo.svg
